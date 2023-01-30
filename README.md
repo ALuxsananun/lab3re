@@ -1,5 +1,5 @@
 # lab3re
-##**This is a checklist**
+**This is a checklist**
 -------------
 
 -[ ] task1
