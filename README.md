@@ -2,8 +2,8 @@
 **This is a checklist**
 -------------
 
--[ ] task1
+- [ ] task1
 
--[x] task2
+- [x] task2
 
--[x] task3
+- [x] task3
